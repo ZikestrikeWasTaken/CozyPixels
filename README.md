@@ -1,7 +1,7 @@
 <!-- ==================== BANNER SECTION ==================== -->
 
 <div align="center">
-  <a href="https://github.com/SleepyCatHey/CozyPixels](https://github.com/SleepyCatHey/CozyPixels/blob/main/cozypixels-banner.png">
+  <a href="https://github.com/SleepyCatHey/CozyPixels/blob/main/cozypixels-banner.png">
     <img src="cozypixels-banner.png" width="100%" alt="CozyPixels - Wallpaper Collection Banner">
   </a>
 </div>
