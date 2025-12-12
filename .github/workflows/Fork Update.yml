@@ -26,7 +26,7 @@ jobs:
       
       - name: Fetch upstream
         run: |
-          git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
+          git remote add upstream https://github.com/SleepyCatHey/CozyPixels.git
           git fetch upstream
 
       - name: Merge upstream changes
